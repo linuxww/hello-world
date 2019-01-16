@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 test
+=======
+cool
+>>>>>>> e7aa9c7bbe5e715769026a7f43ede9be4d05098e
